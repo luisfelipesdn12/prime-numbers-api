@@ -15,17 +15,17 @@ The API, for a while, has three methods:
 - **/allprimestill** - A list with all prime numbers 'till `n` number;
 > - **/allprimestill** - Uma lista contendo todos os números primos até o número `n`;
 
-<img src="https://raw.githubusercontent.com/luisfelipesdn12/prime-numbers-api/master/demo-resources/allprimestill.png" height=500>
+<img src="https://raw.githubusercontent.com/luisfelipesdn12/prime-numbers-api/master/demo-resources/allprimestill.png" width=500>
 
 - **/nthprime** - Returns the prime number position `n`;
 > - **/nthprime** -Retorna o número primos de posição `n`;
 
-<img src="https://raw.githubusercontent.com/luisfelipesdn12/prime-numbers-api/master/demo-resources/nthprime.png" height=500>
+<img src="https://raw.githubusercontent.com/luisfelipesdn12/prime-numbers-api/master/demo-resources/nthprime.png" width=500>
 
 - **/isprime** - Returns a `true` if a number is prime and `false` otherwise.
 > - **/isprime** - Retorna um `true` se um número é primo e `false` caso contrário.
 
-<img src="https://raw.githubusercontent.com/luisfelipesdn12/prime-numbers-api/master/demo-resources/isprime.png" height=500>
+<img src="https://raw.githubusercontent.com/luisfelipesdn12/prime-numbers-api/master/demo-resources/isprime.png" witdh=500>
 
 ## TO DO
 > **A fazer**
