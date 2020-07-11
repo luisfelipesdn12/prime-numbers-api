@@ -36,7 +36,7 @@ public class PrimeServiceTests {
     @Test
     public void testNthPrimeException() {
         try {
-            long negativeNth = service.nthPrime(-1);
+            service.nthPrime(-1);
             fail("An exception were expected and don\'t was throwed");
         } catch (PrimePositionZeroOrNegativeException e) {
             assertEquals(
