@@ -34,11 +34,13 @@ The API, for a while, has three methods:
 > Clone ou baixe o repositório;
 2. Go to the folder where it was downloaded;
 > Vá até a pasta onde o projeto foi baixado;
-3. Go to `build` and later in `libs`;
+3. Build the project with the command `gradle bootJat`;
+> Use o comando `gradle bootJar` para "construir" o projeto;
+4. Go to `build` and later in `libs`;
 > Vá até `build` e depois em `libs`;
-4. Execute the `.jar` file with the command `java -jar primes{version}.jar`;
+5. Execute the `.jar` file with the command `java -jar primes{version}.jar`;
 > Execute o arquivo `.jar` com o comando `java -jar primes{version}.jar`;
-5. Go to the port where it was initialized (localhost:8080 as default).
+6. Go to the port where it was initialized (localhost:8080 as default).
 > Vá até a porta onde o projeto foi inicializado (localhost:8080 por padrão).
 
 ## TO DO
